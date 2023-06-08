@@ -27,19 +27,13 @@ const Mics = () => {
             <article className="flex items-center gap-2 font-Header ">
               <div className="h-7 w-7 bg-bg"></div>
               <h1 className="flex gap-3">
-                1% <p>max wallet</p>
+                two% <p>max wallet</p>
               </h1>
             </article>
             <article className="flex items-center gap-2 font-Header ">
               <div className="h-7 w-7 bg-bg"></div>
               <h1 className="flex gap-3">
                 zero <p>tax</p>
-              </h1>
-            </article>
-            <article className="flex items-center gap-2 font-Header ">
-              <div className="h-7 w-7 bg-bg"></div>
-              <h1 className="flex gap-3">
-                two %<p>max wallet</p>
               </h1>
             </article>
           </div>
