@@ -15,9 +15,9 @@ const Map = () => {
             <ul className="list-disc mt-6 flex flex-col gap-2 list-inside text-xs">
               <li>website launch</li>
               <li>ximanga launch</li>
-              <li>1k+ tg members</li>
-              <li>lp burned</li>
+              <li>lp locked</li>
               <li>meme contest</li>
+              <li>ETH Trending on tg</li>
               <li>ownership renounce</li>
             </ul>
           </article>
@@ -27,7 +27,6 @@ const Map = () => {
               <li>heavy marketing</li>
               <li>coingecko listing </li>
               <li>Trending on Twitter</li>
-              <li>ETH Trending on tg</li>
             </ul>
           </article>
           <article className="h-[300px] border font-Header rounded-2xl p-4 text-start justify-center flex flex-col gap-2">
