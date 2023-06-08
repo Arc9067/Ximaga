@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="w-full h-1 border-t"></div>
 
         <p className="font-secondary capitalize font-bold">
-          © 2023 zimanga All Right Reserved{" "}
+          © 2023 ximanga All Right Reserved{" "}
         </p>
       </div>
     </footer>

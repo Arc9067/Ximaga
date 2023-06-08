@@ -17,16 +17,17 @@ const Hero = () => {
 
           <div className="flex justify-center md:justify-center flex-wrap items-center gap-5">
             <a
-              href=""
+              href="https://t.me/XiMangagateway"
               className="font-Header bg-white text-bg px-6 py-4 rounded-2xl text-xs"
             >
               telegram
             </a>
             <a
-              href=""
+              href="https://twitter.com/XiMangaERC"
+              target="_blank"
               className="font-Header bg-white text-bg px-6 py-4 rounded-2xl text-xs"
             >
-              chart
+              twitter
             </a>
             <a
               href=""

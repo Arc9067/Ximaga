@@ -6,7 +6,7 @@ const Map = () => {
     <section className="py-[50px] w-full bg-bg text-white">
       <div className="container flex flex-col gap-14 text-center items-center justify-center">
         <h1 className="text-3xl md:text-4xl leading-relaxed font-Header font-bold uppercase">
-          $ximanga map
+          ximanga map
         </h1>
 
         <div className="grid w-full grid-cols-1 lg:grid-cols-3 justify-between items-center gap-10">
@@ -33,7 +33,7 @@ const Map = () => {
           <article className="h-[300px] border font-Header rounded-2xl p-4 text-start justify-center flex flex-col gap-2">
             <h2 className="font-Header">phase three</h2>
             <ul className="list-disc mt-6 flex flex-col gap-2 list-inside text-xs">
-              <li>Continued KOL Marketing</li>
+              <li>Continued of Marketing</li>
               <li>Applied CEX Listings</li>
               <li>heavy marketing</li>
             </ul>

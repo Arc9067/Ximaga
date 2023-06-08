@@ -7,7 +7,7 @@ const About = () => {
       <div className="container grid gap-14 text-center items-center justify-center">
         <div className="flex flex-col gap-6 text-center">
           <h1 className="text-3xl md:text-5xl leading-relaxed font-Header font-bold uppercase">
-            about $ximanga
+            about ximanga
           </h1>
           <p className="font-secondary max-w-[700px] mx-auto">
             Ximanga is an innovative cryptocurrency project built on the
